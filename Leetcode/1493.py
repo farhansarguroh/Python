@@ -19,7 +19,7 @@ def longestSubarray(nums):
 
     return max_length
 
-from runningtestcases import TestCaseImplementation
+from Leetcode.runningtestcases import TestCaseImplementation
 
 test_cases = [[0,0,1,1], [1,0,0,0,0], [1,1,0,0,1,1,1,0,1], [1,1,1], [0,1,1,1,0,1,1,0,1], [1,1,0,1]]
 tester = TestCaseImplementation()

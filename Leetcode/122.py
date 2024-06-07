@@ -15,7 +15,7 @@ def maxProfit(prices):
     return profit_earned
         
         
-from runningtestcases import TestCaseImplementation
+from Leetcode.runningtestcases import TestCaseImplementation
 
 
 test_cases = [[7,1,5,3,6,4], [1,2,3,4,5], [7,6,4,3,1], [2,4,1]]

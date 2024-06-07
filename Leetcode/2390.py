@@ -1,4 +1,4 @@
-from runningtestcases import TestCaseImplementation
+from Leetcode.runningtestcases import TestCaseImplementation
 
 def removeStars(s):
     stack = []

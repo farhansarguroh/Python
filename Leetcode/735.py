@@ -17,7 +17,7 @@ def asteroidCollision(asteroids):
     return stack
 
 
-from runningtestcases import TestCaseImplementation
+from Leetcode.runningtestcases import TestCaseImplementation
 
 
 test_cases = [[5,10,-5], [8,-8]]
